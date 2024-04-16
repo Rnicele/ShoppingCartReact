@@ -71,9 +71,8 @@ const NavBar = () => {
       </nav>
 
       <Routes>
-        <Route path="/home" />
+        <Route path="/" />
         <Route path="/list/:id" />
-        <Route path="/cart" />
       </Routes>
     </div>
   );
