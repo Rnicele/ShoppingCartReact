@@ -1,6 +1,6 @@
 {
-  "name": "shopping-cart-app",
-  "private": false,
+  "name": "shopping-cart-react",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
