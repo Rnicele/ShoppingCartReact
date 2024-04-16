@@ -15,7 +15,7 @@ const Category = () => {
             className="btn btn-outline-success btn-categories"
             onClick={() => navigate("/list/" + category.id)}
           >
-            <img src={"../../" + category.image} width="100" />
+            <img src={category.image} width="100" />
             <h5>{category.Name}</h5>
           </button>
         </div>
