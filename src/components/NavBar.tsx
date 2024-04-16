@@ -5,8 +5,8 @@ const NavBar = () => {
   const location = useLocation();
 
   const path = [
-    { title: "Home", link: "/home" },
-    { title: "List", link: "/list/all" },
+    { title: "Home", link: "/shopping-cart-react/" },
+    { title: "List", link: "/shopping-cart-react/list/all" },
   ];
   const { cartQuantity } = useShoppingCart();
   return (
