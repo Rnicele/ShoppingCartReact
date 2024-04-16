@@ -1,42 +1,42 @@
 [
     {
       "Name": "Vegetables",
-      "image": "../../public/assets/icon/vegetables.png",
+      "image": "/assets/icon/vegetables.png",
       "id": "vegetables"
     },
     {
       "Name": "Fruits",
-      "image": "../../public/assets/icon/fruits.png",
+      "image": "/assets/icon/fruits.png",
       "id": "fruits"
     },
     {
       "Name": "Pantry",
-      "image": "../../public/assets/icon/pantry.png",
+      "image": "/assets/icon/pantry.png",
       "id": "pantry"
     },
     {
       "Name": "Eggs & Dairy",
-      "image": "../../public/assets/icon/dairy.png",
+      "image": "/assets/icon/dairy.png",
       "id": "dairy"
     },
     {
       "Name": "Drinks",
-      "image": "../../public/assets/icon/drinks.png",
+      "image": "/assets/icon/drinks.png",
       "id": "drinks"
     },
     {
       "Name": "Medicine",
-      "image": "../../public/assets/icon/medicine.png",
+      "image": "/assets/icon/medicine.png",
       "id": "medicine"
     },
     {
       "Name": "Pet Needs",
-      "image": "../../public/assets/icon/pets.png",
+      "image": "/assets/icon/pets.png",
       "id": "pets"
     },
     {
       "Name": "Tools",
-      "image": "../../public/assets/icon/tools.png",
+      "image": "/assets/icon/tools.png",
       "id": "tools"
     }
   ]

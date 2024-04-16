@@ -14,7 +14,7 @@ const CartItem = ({ id, quantity }: CartItemProps) => {
   return (
     <div className="hstack gap-2 d-flex align-items-center">
       <img
-        src={"../../public/" + item.ImageLink}
+        src={"../../" + item.ImageLink}
         className="card-img-top"
         style={{ width: "100px", height: "75px", objectFit: "cover" }}
         alt={item.ItemName}

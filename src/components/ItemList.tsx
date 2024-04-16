@@ -15,7 +15,7 @@ const ItemList = ({ item }: any) => {
   return (
     <div className="card">
       <img
-        src={"../../public/" + item.ImageLink}
+        src={"../../" + item.ImageLink}
         className="card-img-top"
         alt={item.ItemName}
       />

@@ -1,6 +1,6 @@
-import delivery from "../../public/assets/header/delivery.png";
-import menu from "../../public/assets/header/menu.png";
-import promo from "../../public/assets/header/Promo.png";
+import delivery from "/assets/header/delivery.png";
+import menu from "/assets/header/menu.png";
+import promo from "/assets/header/Promo.png";
 
 const Carousel = () => {
   return (
