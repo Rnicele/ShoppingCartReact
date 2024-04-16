@@ -7,7 +7,7 @@ import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/shopping-cart-react">
       <ShoppingCartProvider>
         <NavBar />
         <Routes>
