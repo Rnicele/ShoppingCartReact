@@ -1,5 +1,7 @@
 import { Link, useLocation, Route, Routes } from "react-router-dom";
 import { useShoppingCart } from "../context/ShoppingCartContext";
+import Home from "../mainComponents/Home";
+import List from "../mainComponents/List";
 
 const NavBar = () => {
   const location = useLocation();
@@ -13,7 +15,7 @@ const NavBar = () => {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary shadow-sm bg-white">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/home">
+          <a className="navbar-brand" href="/">
             ShoppingCart
           </a>
           <button
@@ -71,8 +73,8 @@ const NavBar = () => {
       </nav>
 
       <Routes>
-        <Route path="/" />
-        <Route path="/list/:id" />
+        <Route path="/" element={<Home />} />
+        <Route path="/list/:id" element={<List />} />
       </Routes>
     </div>
   );
