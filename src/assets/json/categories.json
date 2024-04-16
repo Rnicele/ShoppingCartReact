@@ -1,42 +1,42 @@
 [
     {
       "Name": "Vegetables",
-      "image": "/assets/icon/vegetables.png",
+      "image": "/shopping-cart-react/assets/icon/vegetables.png",
       "id": "vegetables"
     },
     {
       "Name": "Fruits",
-      "image": "/assets/icon/fruits.png",
+      "image": "/shopping-cart-react/assets/icon/fruits.png",
       "id": "fruits"
     },
     {
       "Name": "Pantry",
-      "image": "/assets/icon/pantry.png",
+      "image": "/shopping-cart-react/assets/icon/pantry.png",
       "id": "pantry"
     },
     {
       "Name": "Eggs & Dairy",
-      "image": "/assets/icon/dairy.png",
+      "image": "/shopping-cart-react/assets/icon/dairy.png",
       "id": "dairy"
     },
     {
       "Name": "Drinks",
-      "image": "/assets/icon/drinks.png",
+      "image": "/shopping-cart-react/assets/icon/drinks.png",
       "id": "drinks"
     },
     {
       "Name": "Medicine",
-      "image": "/assets/icon/medicine.png",
+      "image": "/shopping-cart-react/assets/icon/medicine.png",
       "id": "medicine"
     },
     {
       "Name": "Pet Needs",
-      "image": "/assets/icon/pets.png",
+      "image": "/shopping-cart-react/assets/icon/pets.png",
       "id": "pets"
     },
     {
       "Name": "Tools",
-      "image": "/assets/icon/tools.png",
+      "image": "/shopping-cart-react/assets/icon/tools.png",
       "id": "tools"
     }
   ]
