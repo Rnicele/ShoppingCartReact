@@ -14,7 +14,7 @@ const NavBar = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary shadow-sm bg-white">
         <div className="container-fluid">
           <a className="navbar-brand" href="/shopping-cart-react">
-            ShoppingCart
+            ShoppingCartReact
           </a>
           <button
             className="navbar-toggler ms-auto"
