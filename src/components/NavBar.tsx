@@ -1,14 +1,12 @@
 import { Link, useLocation, Route, Routes } from "react-router-dom";
 import { useShoppingCart } from "../context/ShoppingCartContext";
-import Home from "../mainComponents/Home";
-import List from "../mainComponents/List";
 
 const NavBar = () => {
   const location = useLocation();
 
   const path = [
-    { title: "Home", link: "/shopping-cart-react/" },
-    { title: "List", link: "/shopping-cart-react/list/all" },
+    { title: "Home", link: "/" },
+    { title: "List", link: "/list/all" },
   ];
   const { cartQuantity } = useShoppingCart();
   return (
@@ -73,8 +71,9 @@ const NavBar = () => {
       </nav>
 
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/list/:id" element={<List />} />
+        <Route path="/" />
+        <Route path="/list/:id" />
+        <Route path="/cart" />
       </Routes>
     </div>
   );
