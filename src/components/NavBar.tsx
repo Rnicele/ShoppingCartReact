@@ -13,7 +13,7 @@ const NavBar = () => {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary shadow-sm bg-white">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/shopping-cart-react">
             ShoppingCart
           </a>
           <button
