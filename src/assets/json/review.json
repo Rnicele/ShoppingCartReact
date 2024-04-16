@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Andres V.",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis tincidunt risus.",
+        "stars": 4.5,
+        "date": "01/20/2024"
+    }, {
+        "id": 2,
+        "name": "Jose M.",
+        "message": "Aliquam varius mattis ligula sit amet venenatis. Maecenas in dolor luctus, ultricies magna vel, finibus orci. Nullam consectetur laoreet ligula, id gravida diam hendrerit ac. ",
+        "stars": 5,
+        "date": "01/23/2024"
+    }, {
+        "id": 3,
+        "name": "Victor S.",
+        "message": "Curabitur purus velit, venenatis ut nulla sit amet, pharetra scelerisque justo.",
+        "stars": 5,
+        "date": "01/24/2024"
+    }, {
+        "id": 4,
+        "name": "Robin P.",
+        "message": "Praesent nec purus nec lectus tincidunt porta.",
+        "stars": 3,
+        "date": "02/12/2024"
+    }, {
+        "id": 5,
+        "name": "Marielle D.",
+        "message": "Nulla malesuada at dolor a posuere. Vivamus finibus vestibulum libero.",
+        "stars": 5,
+        "date": "02/23/2024"
+    }
+]

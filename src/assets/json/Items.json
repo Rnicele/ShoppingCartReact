@@ -1,0 +1,164 @@
+[
+        { 
+          "id": 1,
+          "ItemName": "Gardenia Classic Loaf",
+          "ImageLink": "assets/img/gardenia.png",
+          "Price": 97.50,
+          "Sale": "no",
+          "category": "pantry"
+        }, { 
+          "id": 2,
+          "ItemName": "LadyChoice Mayonaisse",
+          "ImageLink": "assets/img/ladyschoice.jpg",
+          "Price": 155.00,
+          "Sale": "no",
+          "category": "dairy"
+        }, { 
+          "id": 3,
+          "ItemName": "Lucky Me Supreme Jjamppong",
+          "ImageLink": "assets/img/jjampong.jpg",
+          "Price": 52.00,
+          "Sale": "no",
+          "category": "pantry"
+        }, { 
+          "id": 4,
+          "ItemName": "Purefoods Corned Beef",
+          "ImageLink": "assets/img/cornedbeef.jpg",
+          "Price": 135.00,
+          "Sale": "no",
+          "category": "pantry"
+        }, { 
+          "id": 5,
+          "ItemName": "Century tuna flakes hot & spicy",
+          "ImageLink": "assets/img/ctunahot.jpg",
+          "Price": 46.25,
+          "Sale": "yes",
+          "category": "pantry"
+        }, { 
+          "id": 6,
+          "ItemName": "Salonpas Medicated path 10s",
+          "ImageLink": "assets/img/salonpas.jpg",
+          "Price": 66.00,
+          "Sale": "yes",
+          "category": "medicine"
+        }, { 
+          "id": 7,
+          "ItemName": "Efficascent Oil Extra strength 500ml",
+          "ImageLink": "assets/img/efficascent.jpg",
+          "Price": 65.25,
+          "Sale": "yes",
+          "category": "medicine"
+        }, { 
+          "id": 8,
+          "ItemName": "Gatorade Sports Drink Blue Bolt 1.5L",
+          "ImageLink": "assets/img/gatoblue.jpg",
+          "Price": 122.25,
+          "Sale": "yes",
+          "category": "drinks"
+        }, { 
+          "id": 9,
+          "ItemName": "Dr. Pepper Original Flavor Softdrinks",
+          "ImageLink": "assets/img/drpepper.jpg",
+          "Price": 59.00,
+          "Sale": "no",
+          "category": "drinks"
+        }, { 
+          "id": 10,
+          "ItemName": "Lemon (per piece)",
+          "ImageLink": "assets/img/lemon.jpg",
+          "Price": 39.00,
+          "Sale": "no",
+          "category": "fruits"
+        }, { 
+          "id": 11,
+          "ItemName": "Pear (per piece)",
+          "ImageLink": "assets/img/pear.jpg",
+          "Price": 35.00,
+          "Sale": "no",
+          "category": "fruits"
+        }, { 
+          "id": 12,
+          "ItemName": "Ready-to-Eat Peeled Pomelo 250g",
+          "ImageLink": "assets/img/peeledpomelo.png",
+          "Price": 112.50,
+          "Sale": "yes",
+          "category": "fruits"
+        }, { 
+          "id": 13,
+          "ItemName": "Bell Pepper Red 250g",
+          "ImageLink": "assets/img/bellpepper.jpg",
+          "Price": 55.00,
+          "Sale": "no",
+          "category": "vegetables"
+        }, { 
+          "id": 14,
+          "ItemName": "Petchay Native 250g",
+          "ImageLink": "assets/img/pechay.jpg",
+          "Price": 57.25,
+          "Sale": "no",
+          "category": "vegetables"
+        }, { 
+          "id": 15,
+          "ItemName": "fresh Kangkong 250g",
+          "ImageLink": "assets/img/kangkong.jpg",
+          "Price": 27.00,
+          "Sale": "yes",
+          "category": "vegetables"
+        }, { 
+          "id": 16,
+          "ItemName": "Aozi Dog Food 1kg",
+          "ImageLink": "assets/img/aozi.png",
+          "Price": 120.00,
+          "Sale": "no",
+          "category": "pets"
+        }, { 
+          "id": 17,
+          "ItemName": "Simple Pets Multicat Unscented Clumping Cat Litter 10L (8kg)",
+          "ImageLink": "assets/img/catlitter.jpg",
+          "Price": 394.00,
+          "Sale": "no",
+          "category": "pets"
+        }, { 
+          "id": 18,
+          "ItemName": "Kong Classic Dog Toy",
+          "ImageLink": "assets/img/kong-classic-dog-toy.jpg",
+          "Price": 799.00,
+          "Sale": "no",
+          "category": "pets"
+        }, { 
+          "id": 19,
+          "ItemName": "16pcs Multifunction Professional Tools",
+          "ImageLink": "assets/img/tool1.jpg",
+          "Price": 399.00,
+          "Sale": "no",
+          "category": "tools"
+        }, { 
+          "id": 20,
+          "ItemName": "100pcs Gold Steel Thumbtacks",
+          "ImageLink": "assets/img/thumbtacks.png",
+          "Price": 19.00,
+          "Sale": "no",
+          "category": "tools"
+        }, { 
+          "id": 21,
+          "ItemName": "Eggs 12pcs",
+          "ImageLink": "assets/img/eggs.jpg",
+          "Price": 120.00,
+          "Sale": "no",
+          "category": "dairy"
+        }, { 
+          "id": 22,
+          "ItemName": "Nestle Fresh Milk 1L",
+          "ImageLink": "assets/img/nestle.jpg",
+          "Price": 111.00,
+          "Sale": "no",
+          "category": "dairy"
+        }, { 
+          "id": 23,
+          "ItemName": "Nestle Chuckie 180ml",
+          "ImageLink": "assets/img/chuckie.jpg",
+          "Price": 30.00,
+          "Sale": "no",
+          "category": "drinks"
+        }
+      ]
